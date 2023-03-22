@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romipocket
 - 👀 I’m interested to learn new technologies
-- 🌱 I’m currently learning IA
+- 🌱 I’m currently learning UE
 - 💞️ I’m looking to collaborate on anything that can improve our world
 - 📫 How to reach me ... rominapsg90@gmail.com
 
